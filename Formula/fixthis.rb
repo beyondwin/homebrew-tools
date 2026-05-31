@@ -1,8 +1,8 @@
 class Fixthis < Formula
   desc "Agent-first feedback handoff for Jetpack Compose Android apps"
   homepage "https://github.com/beyondwin/FixThis"
-  url "https://github.com/beyondwin/FixThis/releases/download/v0.7.0/fixthis-cli-mcp-v0.7.0.tar.gz"
-  sha256 "a32694fdd2b9d19b36ecbe5ce9e22e19c8d729dd41931d68dadbaba2cd7caa4b"
+  url "https://github.com/beyondwin/FixThis/releases/download/v1.1.0/fixthis-cli-mcp-v1.1.0.tar.gz"
+  sha256 "104c27253add824f180bd01c45b3e10569ca29a9a4108226768a4937d905912c"
   license "MIT"
 
   depends_on "openjdk@21"
