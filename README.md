@@ -1,7 +1,7 @@
 # Homebrew tap for FixThis
 
 ```bash
-brew tap beyondwin/fixthis
+brew tap beyondwin/tools
 brew install fixthis
 ```
 
